@@ -66,4 +66,5 @@
 <p>Feel free to fork this repository and submit pull requests for any improvements or bug fixes!</p>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
+<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
+
