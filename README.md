@@ -1,7 +1,7 @@
 <h1 align="center">Typing Speed Test</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Project Status">
+  <img src="https://img.shields.io/badge/Status-Finished-brightgreen" alt="Project Status">
   <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/Tkinter-GUI-yellow" alt="Tkinter GUI">
 </p>
